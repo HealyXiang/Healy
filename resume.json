@@ -16,7 +16,7 @@
         "email": "xianglitm@163.com",
         "mobile": "13670202361",
         "github": "https://github.com/HealyXiang",
-        "workExpYear": "4年+",
+        "workExpYear": "4",
         "workPlace": "广东深圳",
         "positionTitle": "前端工程师"
     },
@@ -81,7 +81,7 @@
         },
         {
             "skill_name": "MongoDB / WebAssembly / Rust",
-            "skill_desc": "接触和范围使用较为新的技术栈",
+            "skill_desc": "接触和使用较为新的技术栈",
             "skill_level": 70
         }
     ],
@@ -110,7 +110,7 @@
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "跨专业自学进入前端开发领域，学习能力较强，喜欢阅读英文技术文档，书籍，看youtube技术视频\n 关注计算机基础知识，如算法、数据结构，操作系统等，关注编码习惯，提升效率等“软技能”\n 沟通能力较好，同事评价较好\n 热爱运动，喜欢健身，跑步，冲浪羽毛球"
+        "aboutme_desc": "跨专业自学进入前端开发领域，学习能力较强，喜欢阅读英文技术文档，书籍，看youtube技术视频，写技术博客\n 关注计算机基础知识，如算法、数据结构，操作系统等，关注编码习惯，提升效率等“软技能”\n 沟通能力较好，同事评价较好\n 热爱运动，喜欢健身，跑步，冲浪羽毛球"
     },
     "theme": {
         "color": "rgba(61, 96, 136, 1)",

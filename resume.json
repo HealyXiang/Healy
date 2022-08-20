@@ -16,7 +16,7 @@
         "email": "xianglitm@163.com",
         "mobile": "13670202361",
         "github": "https://github.com/HealyXiang",
-        "workExpYear": "",
+        "birthYear": "1993",
         "workPlace": "广东深圳",
         "positionTitle": "前端工程师"
     },
@@ -81,7 +81,7 @@
         },
         {
             "skill_name": "MongoDB / WebAssembly / Rust",
-            "skill_desc": "接触和小范围使用较为新的技术栈",
+            "skill_desc": "接触和范围使用较为新的技术栈",
             "skill_level": 70
         }
     ],

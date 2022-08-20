@@ -57,7 +57,7 @@
                 "2019.04",
                 null
             ],
-            "work_desc": "1. 担任蚂蚁高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责蚂蚁敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"
+            "work_desc": "1. 担任多个前端项目的主要开发，负责项目的前端系统设计，从0到1搭建项目\r\n2. 制定组内代码规范，流程规范，开发内部提效工具\n3. 担任校招和社招新人导师，带领他们开展工作"
         },
         {
             "company_name": "虾皮信息科技有限公司(Shopee)",
@@ -71,51 +71,46 @@
     ],
     "skillList": [
         {
-            "skill_name": "HTML 和 CSS",
-            "skill_desc": "",
-            "skill_level": 89
-        },
-        {
-            "skill_name": "TypeScript / JavaScript",
-            "skill_level": 90
-        },
-        {
-            "skill_name": "数据可视化",
-            "skill_desc": "丰富的可视化工程实践以及开源经验",
+            "skill_name": "TypeScript / JavaScript / HTML,CSS / Nodejs",
             "skill_level": 90
         },
         {
             "skill_name": "React / 前端工程化 / React-Native",
-            "skill_desc": "大型前端项目经验以及组件库开发经验",
+            "skill_desc": "大型电商前端项目经验",
             "skill_level": 80
+        },
+        {
+            "skill_name": "MongoDB / WebAssembly / Rust",
+            "skill_desc": "接触和小范围使用较为新的技术栈",
+            "skill_level": 70
         }
     ],
     "projectList": [
         {
-            "project_name": "数据作战室",
-            "project_role": "前端负责人",
-            "project_time": "2019.04 - 2020.06",
-            "project_desc": "面向总裁和高管以及决策 BI 的数字化经营决策和管理协同产品。提供一站式的数据化经营决策和管理协同功能，让高管高效获取决策信息，并提升管理效率。",
-            "project_content": "1. 项目从0到1的框架设计和开发 2. 产品体验精雕细琢的打磨 3. 建立稳定性保障机制。目前仍在迭代中，帮助提升高管业务决策效率"
+            "project_name": "React-Native 电商C端App开发",
+            "project_role": "前端开发",
+            "project_time": "2022.04 - 至今",
+            "project_desc": "面向多地区，上亿用户量的电商App，使用React Native实现跨平台开发，使用pnpm进行monorepo代码管理",
+            "project_content": "1. 接入公司开发流程，撰写和翻译详细开发流程文档\r\n 2. 修复历史遗留bug，接入数据上报系统 \r\n 3. 进行项目迭代开发，帮助提升用户活跃度和下单率"
         },
         {
-            "project_name": "DeepInsight",
-            "project_role": "可视分析负责人",
-            "project_time": "2018.07 - 2019.04 / 2020.07 - 至今",
-            "project_desc": "DeepInsight 是蚂蚁集团自主研发的自助式 BI 数据洞察分析平台，面向企业分析人员、业务人员和开发人员，帮助蚂蚁集团实现精细化运营。",
-            "project_content": "BI 平台工具核心部分是报表制作，也就是通过数据连接、可视化配置形成图表物料之后，通过拖拽方式进行页面编排，最终形成报表页面进行发布的过程。\n1. 主导开放能力建设，拉通产品、设计建设和扩展可视化图形，提升丰富度\n2. 产品体验优化，尤其是对 ECharts 的体验顽疾进行攻克\n3. 主导可视化能力建设：业务标准化图表库建设(通用组件设计和开发经验丰富)、促进数据分析能力增强等可视化一体化建设"
+            "project_name": "CRM客户关系管理系统",
+            "project_role": "项目负责人",
+            "project_time": "2021.02 - 2022.04",
+            "project_desc": "CRM是基于图结构的可视化用户关系管理系统。支持节点拖拽，图结构生成、插入、删除等功能",
+            "project_content": "1. 负责前端部分的核心系统设计，定义图结构数据结构 \r\n 2. 负责核心部分的算法，其中涉及有向无环图的生成和遍历，求最短路径算法，节点位置计算"
         },
         {
-            "project_name": "G2、G2Plot",
-            "project_role": "核心开发者",
-            "project_time": "2019 - 至今",
-            "project_desc": "G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库",
-            "project_content": "AntV 可视化建设，赋能整个蚂蚁和阿里集团统计可视化分析相关业务。负责 AntV 系列: AntV 官网、G 渲染引擎、 G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作。"
+            "project_name": "广告模板编辑系统",
+            "project_role": "项目负责人",
+            "project_time": "2019.02 - 2021.02",
+            "project_desc": "类似PS的简易图片编辑系统，支持最多20个图层的编辑，支持图片裁剪，拖拽，缩放，图层排序",
+            "project_content": "1. 负责图层部分的系统设计，包括数据结构设计，系统文档编写\r\n 2. 实现图层拖拽，缩放和对齐功能\r\n 3.合理使用二分查找优化图层拖拽吸附对齐功能"
         }
     ],
     "workList": [],
     "aboutme": {
-        "aboutme_desc": "🌱 Focus on data visualization and analysis 😈 能力项：沟通协调能力、执行力\n    自驱型前端工程师，三年多大型复杂产品开发经验，负责蚂蚁集团 BI 产品 DeepInsight 的可视化建设，参与了从图表库到 BI 产品力的一体化建设，对商业智能领域的数据可视化建设有较为丰富的经验。\n    参与 AntV 团队开源项目 G2、G2Plot 的研发，目前是 G2Plot 的主要负责人。\n    "
+        "aboutme_desc": "跨专业自学进入前端开发领域，学习能力较强，喜欢阅读英文技术文档，书籍，看youtube技术视频\n 关注计算机基础知识，如算法、数据结构，操作系统等，关注编码习惯，提升效率等“软技能”\n 沟通能力较好，同事评价较好\n 热爱运动，喜欢健身，跑步，冲浪羽毛球"
     },
     "theme": {
         "color": "rgba(61, 96, 136, 1)",
